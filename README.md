@@ -24,4 +24,4 @@ Worked as a embedded programmer for a scientific project at NTNU, called "buildi
 Worked as a programmer for safebikely (now they're called bikely, I think).
 Spent summer 2019 as an intern at Galleon Embedded Electronics writing C++ for embedded recording systems.
 Summer 2020 I interned at arm, which is how I got the gig I'm doing now, did all sorts of scripting stuff.
-Had a very brief period as a test intern at Microchip in the fall of 2020, before I accepted the full time offer at arm.
+Had a very brief period as a test intern at Microchip in the fall of 2020 where I wrote an expandable, scalable parser for test-logs in python, before I accepted the full time offer at arm.
