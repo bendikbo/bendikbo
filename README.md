@@ -10,8 +10,8 @@ Currently working (or going to work, starting September 21') at arm as a "produc
 
 # What I can do
 
-I wrote my master thesis on detection and classification on bird vocalizations, and you can find some pretty decent, reusable code for sound event detection in the SED-repo.
-I actually have done a bunch of deep learning stuff, but I probably wouldn't work as a data scientist, because I think Jupyter Notebooks are fugly and encourage people to write shit code.
+I wrote my master thesis on detection and classification on bird vocalizations, and you can find some pretty decent, reusable code for sound event detection in the SSED-repo.
+I have done some of deep learning stuff, but I probably couldn't work as a data scientist, because I think Jupyter Notebooks are fugly and encourage people to write shit code.
 Nothing wrong with that if you don't care about code quality though, it's just that I *somewhat* do.
 
 I'm good at Python, C, and Bash.
