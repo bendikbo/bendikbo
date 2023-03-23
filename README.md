@@ -6,7 +6,7 @@ It's not necessarily that I'm bad at the electronic-y stuff, it's just that I en
 # What I do
 
 Some projects here and there, mostly when I canẗ find an implementation of stuff the way I want it.
-Currently working (or going to work, starting September 21') at arm as a "productivity engineer", which means I'm paid to write code that makes the company more productive, I guess.
+Currently working (or going to work, starting September 21') at arm as a "productivity engineer", which means I'm paid to write code that makes the company more productive, I think.
 
 # What I can do
 
@@ -20,13 +20,13 @@ I'm crap at golang, vhdl, systemverilog.
 
 # Places I've been
 
-Worked as a embedded programmer for a scientific project at NTNU, called "building brains", pretty dope stuff, was fun.
+Worked as an embedded programmer for a scientific project at NTNU, called "building brains", pretty dope stuff, was fun.
 
-Worked as a programmer for safebikely (now they're called bikely, I think).
+Worked as a programmer for safebikely (now they're called bikely).
 
-Spent summer 2019 as an intern at Galleon Embedded Electronics writing sode for embedded recording systems.
+Spent summer 2019 as an intern at Galleon Embedded Electronics writing code for embedded recording systems.
 
-Summer 2020 I interned at arm, which is how I got the gig I'm doing now I guess.
+Summer 2020 I interned at arm, which is how I got the gig I'm doing now.
 
 Had a very brief period as a test intern at Microchip in the fall of 2020 where I wrote some python stuff.
 
